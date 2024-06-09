@@ -4,7 +4,7 @@ Hi!, welcome to my repository. The **Library Management System (LMS)** is develo
 features such as adding and managing students, books with efficiently maintaining their data. It also contains other security features such as **Captcha Verification** and 
 **Password Encryption**. This is a complete LMS with all the necessary functionalties. It also provides feature to **generate report** and **manage fine**.
 
-Note: This is an extended version of Library Management System that can be found [here](https://phpgurukul.com/online-library-management-system/). I have added more advance functionalities like **report generation**.
+Note: This is an extended version of Library Management System that  I have added more advance functionalities like **report generation**.
 
 # Getting Started
 
